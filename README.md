@@ -26,3 +26,7 @@ Running
 `$ PUBSUB_EMULATOR_HOST=localhost:8085 ./pubsub_subscribe.py`
 
 in a separate shell will let you view those messages.
+
+## Next steps
+
+Use https://github.com/GoogleCloudPlatform/functions-framework-python#quickstart-pubsub-emulator to set up a Python Cloud Function to consume the messages that are in the PubSub emulator
