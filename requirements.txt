@@ -5,7 +5,7 @@ click==8.0.3
 cloudevents==1.2.0
 deprecation==2.1.0
 docker==5.0.3
-Flask==2.0.2
+Flask==2.2.5
 functions-framework==3.0.0
 google-api-core==2.2.2
 google-auth==2.3.3
