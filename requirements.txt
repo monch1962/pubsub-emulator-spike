@@ -23,7 +23,7 @@ MarkupSafe==2.0.1
 mypy-extensions==0.4.3
 packaging==21.3
 proto-plus==1.19.8
-protobuf==3.19.1
+protobuf==4.25.8
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyparsing==3.0.6
@@ -33,7 +33,7 @@ rsa==4.8
 six==1.16.0
 typing-inspect==0.7.1
 typing_extensions==4.0.1
-urllib3==1.26.7
+urllib3==2.5.0
 watchdog==1.0.2
 websocket-client==1.2.1
 Werkzeug==2.0.2
